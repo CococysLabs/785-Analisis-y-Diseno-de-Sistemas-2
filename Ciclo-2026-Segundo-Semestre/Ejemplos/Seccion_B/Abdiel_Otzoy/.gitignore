@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+.tmp/
+.opencode/
+__pycache__/
+.terraform/
+*.tfstate*
+*.mp4
